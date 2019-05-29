@@ -1,4 +1,4 @@
-package com.exemple.tasks;
+package com.example.tasks;
 import java.util.Scanner;
 public class Task1 {
     public static void main(String[] args) {
