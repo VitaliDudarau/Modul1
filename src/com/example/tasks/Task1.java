@@ -1,3 +1,6 @@
+/*
+1. Найдите  значение функции: z = ( (a – 3 ) * b / 2) + c.
+ */
 package com.exemple.tasks;
 
 import java.util.Scanner;
