@@ -3,7 +3,7 @@
 ((𝑏 + (√𝑏2 + 4𝑎𝑐)) / 2𝑎) − 𝑎3𝑐 + 𝑏−2
 
  */
-package com.exemple.tasks;
+package com.example.tasks.line;
 
 import java.util.Scanner;
 

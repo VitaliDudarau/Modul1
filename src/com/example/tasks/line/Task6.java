@@ -3,7 +3,7 @@
 если точка с координатами (х, у) принадлежит закрашенной области,
 и false — в противном случае:
  */
-package com.example.tasks;
+package com.example.tasks.line;
 
 import java.util.Scanner;
 

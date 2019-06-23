@@ -2,7 +2,7 @@
 1. Даны два угла треугольника (в градусах). Определить,
 существует ли такой треугольник, и если да, то будет ли он прямоугольным.
  */
-package com.example.tasks;
+package com.example.tasks.branch;
 
 import java.util.Scanner;
 
