@@ -6,6 +6,7 @@ package com.example.tasks.line;
 import java.util.Scanner;
 
 public class Task1 {
+    
     @SuppressWarnings("resource")
     public static void main(String[] args) {
 
