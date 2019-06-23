@@ -35,9 +35,5 @@ public class Branch3 {
         }else {
             System.out.println("The points DON'T lie in the same straight");
         }
-
-
-
-        System.out.println("max value is ");
     }
 }
