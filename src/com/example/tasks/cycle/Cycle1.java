@@ -16,7 +16,7 @@ public class Cycle1 {
         BigInteger sum = new BigInteger("0");
 
         Scanner s = new Scanner(System.in);
-        System.out.println("write a : ");
+        System.out.println("write a: ");
         a = s.nextInt();
 
         while (n < a) {
