@@ -7,7 +7,6 @@ import java.math.BigInteger;
 
 public class Cycle4 {
 
-    @SuppressWarnings("resource")
     public static void main(String[] args) {
 
         int a = 200, n = 0;
